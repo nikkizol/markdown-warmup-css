@@ -45,11 +45,27 @@ margin-top: 90px;
 ul {
     font-weight:bold
 }
-.img {
-    width: 90px;
-    height: auto;
+.joystick {
     float: right;
+    width: 18%;
+    display: block;
+    margin-left: 20%;
+    margin-right: -25%;
+    margin-bottom: -10%;
+    margin-top: -3%;
 }
+.joy {float: right;
+    width: 18%;
+    display: block;
+    margin-left: 20%;
+    margin-right: 60%;
+    margin-bottom: -10%;
+    margin-top: -7%;
+
+
+}
+
+
 .count {
     text-align: center;
 }
