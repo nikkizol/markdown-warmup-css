@@ -1,13 +1,56 @@
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1435224654926-ecc9f7fa028c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+    margin: auto;
+    width: 50%;
+    color: white;
+}
+h1 {
+    text-align: center;
+    letter-spacing: 8px;
+}
+.italic {
+    text-align: center;
+    background: white;
+    color: black;
+    display: table;
+    margin: 0px auto 0px auto;
+    padding:5px;
+}
 img {
-    display: block;
+    float: left;
+    margin: 25px 15px 15px 0px;
+    clear: top;
+    opacity: 80%;
+}
+.motivated {
+margin-top: 60px;
+    text-align:center;
 }
 table, td, th {
     border: 2px solid #ddd;
-    text-align: left;
-}
-table {
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
     border-collapse: collapse;
-}
-th, td {
     padding: 10px;
+}
+.hobbies {
+    text-align: center;
+margin-top: 90px;
+}
+ul {
+    font-weight:bold
+}
+.count {
+    text-align: center;
+}
+.funny {
+    text-align: center;
+}
+footer {
+    text-align: center;
 }
