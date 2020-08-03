@@ -46,8 +46,9 @@ ul {
     font-weight:bold
 }
 .img {
+    width: 90px;
+    height: auto;
     float: right;
-    margin: 0px 0px 0px 0px;
 }
 .count {
     text-align: center;
