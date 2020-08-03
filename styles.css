@@ -46,13 +46,14 @@ ul {
     font-weight:bold
 }
 .space {
-    position: fixed;
     float: right;
-    width: 10%;
-    margin-left: 53%;
-    margin-right: %;
+    display: block;
+    width: 20%;
+    margin-left: 0%;
+    margin-right: -26%;
     margin-bottom: 0%;
-    margin-top: -36%;
+    margin-top: 15%;
+    transform: rotate(20deg)
 }
 .joy {float: right;
     width: 18%;
