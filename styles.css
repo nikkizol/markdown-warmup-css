@@ -22,9 +22,8 @@ h1 {
 }
 img {
     float: left;
-    margin: 25px 15px 15px 0px;
-    clear: top;
-    opacity: 80%;
+    width: 100px;
+    height: 100px;
 }
 .motivated {
 margin-top: 60px;
@@ -44,6 +43,10 @@ margin-top: 90px;
 }
 ul {
     font-weight:bold
+}
+.img {
+    float: right;
+    margin: 0px 0px 0px 0px;
 }
 .count {
     text-align: center;
